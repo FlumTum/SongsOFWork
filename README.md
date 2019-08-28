@@ -1,5 +1,7 @@
 # SongsOFWork
-In times of trouble or of doubt, it can help to think about your work in a different light.  
+In times of trouble or of doubt (or perhaps boredom)
+It can help to think about your work in a different light.
+
 This is what Songs Of Work is about.
 
 Think of a song that you know.  
